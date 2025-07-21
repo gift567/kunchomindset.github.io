@@ -779,7 +779,7 @@ background-size: cover;
 }
 
 #blog .tabs a:hover {
-  color: #45489a;
+  color: red;
 }
 
 
@@ -828,6 +828,7 @@ background-size: cover;
   margin-right: 30px;
   max-width: 100%;
   overflow: hidden;
+  height: 300px;
 }
 #blog .tabgroup ul li .text-content {
   display: inline;
