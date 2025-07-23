@@ -81,7 +81,7 @@ p {
 }
 
 .white-button a:hover {
-  background-color: #45489a;
+  background-color: red;
   color: #fff;
 }
 
@@ -90,7 +90,7 @@ p {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #45489a;
+  background-color: red;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -102,7 +102,7 @@ p {
 
 .accent-button a:hover {
   background-color: #fff;
-  color: #45489a;
+  color: red;
 }
 
 header {
@@ -308,7 +308,7 @@ header {
 }
 
 .sidebar-navigation .social-icons li a:hover {
-  color: #45489a;
+  color: red;
 }
 
 
@@ -327,7 +327,7 @@ header {
 	color: #FFF;
 }
 .slider p a:hover {
-	color: #FF0;
+	color: red;
 	text-decoration: none;
 }
 
@@ -539,7 +539,7 @@ background-size: cover;
 }
 
 #featured .owl-nav span:hover {
-  background-color: #45489a;
+  background-color: red;
   color: #fff;
 }
 
@@ -564,7 +564,7 @@ background-size: cover;
   color: #fff;
   text-align: center;
   text-transform: capitalize;
-  background-color: rgba(69,72,154, 0.9);
+  background-color: red;
   display: inline-block;
   height: 44px;
   line-height: 44px;
